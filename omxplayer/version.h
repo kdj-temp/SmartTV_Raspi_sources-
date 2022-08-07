@@ -1,0 +1,7 @@
+#ifndef __VERSION_H__
+#define __VERSION_H__
+#define VERSION_DATE "Wed, 02 Nov 2016 06:47:36 +0000"
+#define VERSION_HASH "UNKNOWN"
+#define VERSION_BRANCH "UNKNOWN"
+#define VERSION_REPO "UNKNOWN"
+#endif
